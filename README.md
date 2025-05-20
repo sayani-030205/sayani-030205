@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayani Maity</h1>
-<h3 align="center">A passionable and proffessional Digital Forensics Enthusiast & Ethical Hacker (pentester) from India.</h3>
+<h3 align="center">Digital Forensics Enthusiast & Ethical Hacker (pentester) from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayani-030205&label=Profile%20views&color=0e75b6&style=flat" alt="sayani-030205" /> </p>
 
