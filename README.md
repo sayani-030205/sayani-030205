@@ -18,16 +18,16 @@
 
 <h3 align="left">Connect with me 💻:</h3>
 <p align="left">
-<a href="https://twitter.com/sayani_0302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayani_0302" height="30" width="40" /></a>
+<a href="https://twitter.com/isayani05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isayani05" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sayanimaity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayanimaity" height="30" width="40" /></a>
-<a href="https://kaggle.com/sayanimaity0302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sayanimaity0302" height="30" width="40" /></a>
-<a href="https://fb.com/sayanimaity0302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sayanimaity0302" height="30" width="40" /></a>
-<a href="https://medium.com/@sayanimaity0302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sayanimaity0302" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sayanimaity0302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sayanimaity0302" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sayanimaity0302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sayanimaity0302" height="30" width="40" /></a>
+<a href="https://kaggle.com/isayani05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="isayani05" height="30" width="40" /></a>
+<a href="https://fb.com/isayani05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="isayani05" height="30" width="40" /></a>
+<a href="https://medium.com/@isayani-05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@isayani-05" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/isayani_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="isayani_05" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/isayani_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="isayani_05" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/sayanimaity0302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="sayanimaity0302" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sayanimaity0302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sayanimaity0302" height="30" width="40" /></a>
-<a href="https://discord.gg/sayani_0302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sayani_0302" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/isayani_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="isayani_05" height="30" width="40" /></a>
+<a href="https://discord.gg/isayani_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="isayani_05" height="30" width="40" /></a>
 </p>
 
 # 📊 GitHub Stats:
