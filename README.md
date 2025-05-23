@@ -28,10 +28,6 @@
 <a href="https://auth.geeksforgeeks.org/user/sayanimaity0302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sayanimaity0302" height="30" width="40" /></a>
 <a href="https://discord.gg/sayani_0302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sayani_0302" height="30" width="40" /></a>
 </p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sayani-030205&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sayani-030205&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sayani-030205&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sayani-030205&theme=radical&no-frame=false&no-bg=true&margin-w=4)
