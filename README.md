@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sayani Maity</h1>
-<h3 align="center">Digital Forensics Enthusiast & Ethical Hacker (pentester) from India.</h3>
+![Header](./your-header-image-name.png)
 
 💫 ABOUT ME----
 
