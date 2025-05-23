@@ -3,6 +3,8 @@
 
 💫 ABOUT ME----
 
+- 🔭 I’m currently working on **🧠 AI-Powered Phishing Email Detector.**
+
 - 🌱 I’m currently learning **Digital Forensic & pentesting.**
 
 - 🤝 I’m looking for help with **🔐 Custom Authentication System with Pen Test Evaluation.**
@@ -15,7 +17,7 @@
 
 - ⚡ Fun fact **Hackers once used a refrigerator connected to the internet to launch a cyberattack—proving even your kitchen can be part of a botnet! 😄**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me 💻:</h3>
 <p align="left">
 <a href="https://twitter.com/sayani_0302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayani_0302" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sayanimaity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayanimaity" height="30" width="40" /></a>
