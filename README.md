@@ -1,6 +1,20 @@
 <h1 align="center">Hi 👋, I'm Sayani Maity</h1>
 <h3 align="center">Digital Forensics Enthusiast & Ethical Hacker (pentester) from India.</h3>
 
+- 🔭 I’m currently working on **# 💫 About Me: 🔭 I’m currently working on 🧠 AI-Powered Phishing Email Detector. 🌱 I’m currently learning Digital Forensic & pentesting. 🤝 I’m looking for help with 🔐 Custom Authentication System with Pen Test Evaluation. 👨‍💻 All of my projects are available at https://github.com/sayani-030205 💬 Ask me about Digital investigation. 📫 How to reach me sayanimaity2024@gmail.com ⚡ Fun fact Hackers once used a refrigerator connected to the internet to launch a cyberattack—proving even your kitchen can be part of a botnet! 😄**
+
+- 🌱 I’m currently learning **Digital Forensic & pentesting.**
+
+- 🤝 I’m looking for help with **🔐 Custom Authentication System with Pen Test Evaluation.**
+
+- 👨‍💻 All of my projects are available at [https://github.com/sayani-030205](https://github.com/sayani-030205)
+
+- 💬 Ask me about **Digital investigation.**
+
+- 📫 How to reach me **sayanimaity2024@gmail.com**
+
+- ⚡ Fun fact **Hackers once used a refrigerator connected to the internet to launch a cyberattack—proving even your kitchen can be part of a botnet! 😄**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sayani_0302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayani_0302" height="30" width="40" /></a>
@@ -14,9 +28,6 @@
 <a href="https://auth.geeksforgeeks.org/user/sayanimaity0302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sayanimaity0302" height="30" width="40" /></a>
 <a href="https://discord.gg/sayani_0302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sayani_0302" height="30" width="40" /></a>
 </p>
-# 💫 About Me:
-🔭 I’m currently working on 🧠 AI-Powered Phishing Email Detector.<br>🌱 I’m currently learning Digital Forensic & pentesting.<br>🤝 I’m looking for help with 🔐 Custom Authentication System with Pen Test Evaluation.<br>👨‍💻 All of my projects are available at https://github.com/sayani-030205<br>💬 Ask me about Digital investigation.<br>📫 How to reach me sayanimaity2024@gmail.com<br>⚡ Fun fact Hackers once used a refrigerator connected to the internet to launch a cyberattack—proving even your kitchen can be part of a botnet! 😄<br><br>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sayani-030205&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sayani-030205&theme=neon&hide_border=false)<br/>
@@ -25,8 +36,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sayani-030205&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sayani-030205&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sayani-030205&icon=0&color=0)](https://visitcount.itsvg.in)
